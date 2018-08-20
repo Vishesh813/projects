@@ -1,2 +1,2 @@
-# hometutionguru
-It is a copyright of tuition providing website
+Take a code learn backend programming with PHP
+
